@@ -4,7 +4,7 @@
 
 We are seeking a skilled and creative Web Developer to design, develop, and maintain websites and web applications. The ideal candidate should have strong proficiency in front-end and/or back-end development, experience with modern web technologies, and a passion for creating user-friendly digital experiences.
 
-Skills: REACT / JS / HTML / CSS
+Skills: node.js / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
